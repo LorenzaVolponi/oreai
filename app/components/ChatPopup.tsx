@@ -7,7 +7,7 @@ import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/componen
 import { ScrollArea } from "@/components/ui/scroll-area"
 import { X } from 'lucide-react'
 
-const GROQ_API_KEY = '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'
+const GROQ_API_KEY = 'YOU KEY HERE'
 
 interface ChatPopupProps {
   isOpen: boolean
